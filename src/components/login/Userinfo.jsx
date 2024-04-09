@@ -1,6 +1,6 @@
 import React from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css'
-import { Button,Card } from 'react-bootstrap';
+
+
 import img from '../login/im.png'
 
 export default function Userinfo() {
